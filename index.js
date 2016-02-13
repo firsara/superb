@@ -1,5 +1,5 @@
 'use strict';
-var words = require('./words.js');
+var words = require('./words');
 var uniqueRandomArray = require('unique-random-array');
 
 var prefixWord = function(){
