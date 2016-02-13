@@ -1,4 +1,4 @@
-[
+module.exports = [
 	"ace",
 	"amazing",
 	"astonishing",
