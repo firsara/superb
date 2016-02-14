@@ -4,7 +4,7 @@
 
 Currently ~100 words.
 
-The word list itself is just a [JSON file](words.js) and can be used wherever.
+The word list itself is just a [JSON file](words.json) and can be used wherever.
 
 
 ## Install
@@ -36,7 +36,7 @@ superb.words;
 
 Type: `string`
 
-Random [superb like word](words.js).
+Random [superb like word](words.json).
 
 ### superb.words
 
